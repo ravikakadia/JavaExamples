@@ -1,5 +1,3 @@
-package com.bmc.test.dwp;
-
 import java.util.Arrays;
 
 public class MonotonicArray {
