@@ -30,6 +30,15 @@ class CharCount {
      }
     
    }
+    /*
+    Set<Character> cs=charCount.keySet();
+    for (Character c: cs){
+      if (charCount.get(c) > maxCount){
+        maxcount = charCount.get(c);
+        maxChar = c;
+      }
+    }
+      */
     System.out.println(maxChar + " : " + maxCount);
              
   }
